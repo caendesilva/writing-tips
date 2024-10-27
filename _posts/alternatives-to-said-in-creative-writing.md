@@ -1,5 +1,5 @@
 ---
-title: "Alternatives to "said" in creative writing"
+title: 'Alternatives to "said" in creative writing'
 description: 'Some alternatives to "said" in creative writing, sorted by mood/category.'
 date: "2024-10-27"
 author: caen
