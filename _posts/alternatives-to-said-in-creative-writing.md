@@ -5,7 +5,10 @@ date: "2024-10-27"
 author: caen
 ---
 
-Here are some alternatives to "said" in creative writing, sorted by mood/category.
+Here are some alternatives to "said" in creative writing, sorted by mood/category. Remember, using "said" is not always a bad thing. It is so common that the reader can often gloss over it, leaving focus on the important parts.
+
+
+### Common alternatives
 
 **Neutral Alternatives:**
 
@@ -17,6 +20,8 @@ Here are some alternatives to "said" in creative writing, sorted by mood/categor
 - expressed
 - articulated
 - declared
+- acknowledged
+- noted
 
 **Soft/Gentle Alternatives:**
 
@@ -27,6 +32,7 @@ Here are some alternatives to "said" in creative writing, sorted by mood/categor
 - cooed
 - purred
 - mused
+- crooned
 
 **Forceful/Assertive Alternatives:**
 
@@ -38,6 +44,7 @@ Here are some alternatives to "said" in creative writing, sorted by mood/categor
 - bellowed
 - thundered
 - roared
+- ordered
 
 **Emotional Alternatives:**
 
@@ -49,9 +56,12 @@ Here are some alternatives to "said" in creative writing, sorted by mood/categor
 - sobbed
 - pleaded
 - pled
+- blurted
+- moaned
 
 **Questioning Alternatives:**
 
+- asked
 - queried
 - questioned
 - inquired
@@ -67,6 +77,8 @@ Here are some alternatives to "said" in creative writing, sorted by mood/categor
 - considered
 - reflected
 - meditated
+- speculated
+- marveled
 
 **Informative Alternatives:**
 
@@ -76,6 +88,8 @@ Here are some alternatives to "said" in creative writing, sorted by mood/categor
 - described
 - detailed
 - specified
+- relayed
+- reported
 
 **Casual Alternatives:**
 
@@ -85,5 +99,82 @@ Here are some alternatives to "said" in creative writing, sorted by mood/categor
 - rambled
 - prattled
 - joked
+- chirped
+- tossed out
 
-Remember, using "said" is not always a bad thing. It is so common that the reader can often gloss over it, leaving focus on the important parts.
+### Even more alternatives
+
+### **Sarcastic/Ironic Alternatives:**
+Useful for when a character speaks with a hint of sarcasm or dry humor.
+- sneered
+- scoffed
+- jibed
+- quipped
+- jeered
+- mocked
+
+### **Hesitant/Uncertain Alternatives:**
+Perfect for dialogue where a character feels unsure, embarrassed, or reluctant.
+- stammered
+- faltered
+- mumbled
+- hesitated
+- stuttered
+- wavered
+
+### **Encouraging/Reassuring Alternatives:**
+Helpful for supportive characters aiming to comfort or motivate.
+- reassured
+- encouraged
+- soothed
+- consoled
+- comforted
+- urged
+
+### **Evasive/Vague Alternatives:**
+Ideal for when a character avoids direct answers or tries to dodge the truth.
+- hedged
+- deflected
+- dodged
+- evaded
+- sidestepped
+- skirted
+
+### **Excited/Enthusiastic Alternatives:**
+Great for characters bursting with energy or excitement.
+- gushed
+- raved
+- exclaimed
+- cheered
+- bubbled
+- enthused
+
+### **Teasing/Playful Alternatives:**
+Use these when characters are bantering or speaking with a sense of playfulness.
+- teased
+- joked
+- chortled
+- bantered
+- jested
+- ribbed
+
+### **Disbelieving/Shocked Alternatives:**
+For when characters are stunned, incredulous, or surprised.
+- gasped
+- blurted
+- balked
+- exclaimed
+- sputtered
+- gawked
+
+### **Intimidating/Threatening Alternatives:**
+When a character is speaking with menace or intimidation.
+- snarled
+- growled
+- hissed
+- warned
+- threatened
+- menaced
+
+
+These categories can give you finer control over dialogue tone, especially in scenes requiring subtle emotional shifts.
