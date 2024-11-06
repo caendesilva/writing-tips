@@ -27,7 +27,6 @@ Here are some alternatives to "said" in creative writing, sorted by mood/categor
 - cooed
 - purred
 - mused
-- murmured
 
 **Forceful/Assertive Alternatives:**
 
@@ -86,3 +85,5 @@ Here are some alternatives to "said" in creative writing, sorted by mood/categor
 - rambled
 - prattled
 - joked
+
+Remember, using "said" is not always a bad thing. It is so common that the reader can often gloss over it, leaving focus on the important parts.
